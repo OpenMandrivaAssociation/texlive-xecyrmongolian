@@ -1,6 +1,6 @@
 Name:		texlive-xecyrmongolian
 Version:	53160
-Release:	1
+Release:	2
 Summary:	Basic support for the typesetting of Cyrillic Mongolian documents using (Xe|Lua)LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xecyrmongolian
